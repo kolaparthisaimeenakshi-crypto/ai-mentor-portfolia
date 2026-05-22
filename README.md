@@ -6,7 +6,7 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 # ai-mentor-portfolia
 <img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/451b5af2-e017-4c38-8da5-49a9de84503b" />
 ``markdown
-## D`ay 2 Lab 2B — Errors handled
+## D`ay 2 Lab 2B — Errors handled 
 
 1. **Markdown fence wrapping** (`\`\`\`json ... \`\`\``)
    The retry prompt asks Gemini to output raw JSON without fences. Triggers on ~5-10% of calls.
